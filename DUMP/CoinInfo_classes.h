@@ -1,0 +1,25 @@
+// WidgetBlueprintGeneratedClass CoinInfo.CoinInfo_C
+// Size: 0x360 (Inherited: 0x2c0)
+struct UCoinInfo_C : UPDCoinInfoUI {
+	struct UWidgetAnimation* GetRoundCoinEnd_Backup; // 0x2c0(0x08)
+	struct UWidgetAnimation* GetRoundCoinStart_Backup; // 0x2c8(0x08)
+	struct UWidgetAnimation* GetRoundCoinEnd; // 0x2d0(0x08)
+	struct UWidgetAnimation* GetRoundCoinStart; // 0x2d8(0x08)
+	struct UWidgetAnimation* LoseCoin1; // 0x2e0(0x08)
+	struct UWidgetAnimation* GetCoin1; // 0x2e8(0x08)
+	struct UWidgetAnimation* LoseCoinAniStart; // 0x2f0(0x08)
+	struct UWidgetAnimation* GetCoinEnd; // 0x2f8(0x08)
+	struct UWidgetAnimation* GetCoinAniStart; // 0x300(0x08)
+	struct UCoinInfoItem_C* CoinInfoItem; // 0x308(0x08)
+	struct UCoinInfoItem_C* CoinInfoItem_82; // 0x310(0x08)
+	struct UCoinInfoItem_C* CoinInfoItem_203; // 0x318(0x08)
+	struct UImage* IMG_Back; // 0x320(0x08)
+	struct UImage* IMG_Coin_2; // 0x328(0x08)
+	struct UImage* IMG_CoinFX; // 0x330(0x08)
+	struct UImage* IMG_Light_BackTop; // 0x338(0x08)
+	struct UPDImage* IMG_RewardBack; // 0x340(0x08)
+	struct UPDTextBlock* TB_GetCoin; // 0x348(0x08)
+	struct UPDTextBlock* TB_GetCoin_Back; // 0x350(0x08)
+	struct UPDTextBlock* TB_HoldingCoin; // 0x358(0x08)
+};
+

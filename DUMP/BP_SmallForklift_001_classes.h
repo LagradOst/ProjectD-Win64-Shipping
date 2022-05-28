@@ -1,0 +1,27 @@
+// BlueprintGeneratedClass BP_SmallForklift_001.BP_SmallForklift_001_C
+// Size: 0x770 (Inherited: 0x6c0)
+struct ABP_SmallForklift_001_C : APDDynamicObject {
+	struct UBoxComponent* Box; // 0x6c0(0x08)
+	struct UStaticMeshComponent* WHEEL1#SM_SmallForkliftWheel_003; // 0x6c8(0x08)
+	struct UStaticMeshComponent* WHEEL4#SM_SmallForkliftWheel_006; // 0x6d0(0x08)
+	struct UStaticMeshComponent* WHEEL3#SM_SmallForkliftWheel_005; // 0x6d8(0x08)
+	struct UStaticMeshComponent* WHEEL2#SM_SmallForkliftWheel_004; // 0x6e0(0x08)
+	struct UStaticMeshComponent* BODY#SM_SmallForklift_004_Destoryed_Mid; // 0x6e8(0x08)
+	struct USceneComponent* MDESTROY#; // 0x6f0(0x08)
+	struct UPDDynamicObjectPoint* POINT2#AiForklift_Fire; // 0x6f8(0x08)
+	struct UPDDynamicObjectPoint* POINT1#AiForklift_Smoke; // 0x700(0x08)
+	struct UPDDynamicObjectPoint* POINT3#AiForklift_Explosion; // 0x708(0x08)
+	struct UStaticMeshComponent* WHEEL4#SM_SmallForkliftWheel_005; // 0x710(0x08)
+	struct UStaticMeshComponent* WHEEL3#SM_SmallForkliftWheel_004; // 0x718(0x08)
+	struct UStaticMeshComponent* WHEEL2#SM_SmallForkliftWheel_003; // 0x720(0x08)
+	struct UStaticMeshComponent* WHEEL1#SM_SmallForkliftWheel_002; // 0x728(0x08)
+	struct UStaticMeshComponent* WHEEL4#SM_SmallForkliftWheel_004; // 0x730(0x08)
+	struct UStaticMeshComponent* WHEEL3#SM_SmallForkliftWheel_003; // 0x738(0x08)
+	struct UStaticMeshComponent* BODY#SM_SmallForklift_004_Destoryed_Final; // 0x740(0x08)
+	struct USceneComponent* FDESTROY#; // 0x748(0x08)
+	struct UStaticMeshComponent* WHEEL2#SM_SmallForkliftWheel_002; // 0x750(0x08)
+	struct UStaticMeshComponent* WHEEL1#SM_SmallForkliftWheel_001; // 0x758(0x08)
+	struct UStaticMeshComponent* BODY#SM_SmallForklift_004; // 0x760(0x08)
+	struct USceneComponent* ALIVEOBJ#; // 0x768(0x08)
+};
+

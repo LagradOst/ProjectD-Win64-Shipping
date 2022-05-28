@@ -1,0 +1,25 @@
+// BlueprintGeneratedClass BP_MERGED_SmallWarehouse_001_Epic.BP_MERGED_SmallWarehouse_001_Epic_C
+// Size: 0x2c0 (Inherited: 0x220)
+struct ABP_MERGED_SmallWarehouse_001_Epic_C : AActor {
+	struct UStaticMeshComponent* SM_SmallWarehouse_decal_003; // 0x220(0x08)
+	struct UStaticMeshComponent* SM_SmallWarehouse_decal_002; // 0x228(0x08)
+	struct UStaticMeshComponent* SM_CCTV_009; // 0x230(0x08)
+	struct UStaticMeshComponent* SM_CCTV_006; // 0x238(0x08)
+	struct UStaticMeshComponent* SM_SmallWarehouse_decal_001; // 0x240(0x08)
+	struct UStaticMeshComponent* SM_CCTV_0015; // 0x248(0x08)
+	struct UStaticMeshComponent* SM_CCTV_0012; // 0x250(0x08)
+	struct UStaticMeshComponent* SM_CCTV_0010; // 0x258(0x08)
+	struct UStaticMeshComponent* SM_WallCrack_001; // 0x260(0x08)
+	struct UStaticMeshComponent* SM_WallCrack_009; // 0x268(0x08)
+	struct UStaticMeshComponent* SM_WallCrack_008; // 0x270(0x08)
+	struct UStaticMeshComponent* SM_WallCrack_007; // 0x278(0x08)
+	struct UStaticMeshComponent* SM_WallCrack_002; // 0x280(0x08)
+	struct UStaticMeshComponent* SM_SignA_17; // 0x288(0x08)
+	struct UStaticMeshComponent* SM_LedLight_001_03; // 0x290(0x08)
+	struct UStaticMeshComponent* SM_LedLight_001_013; // 0x298(0x08)
+	struct UChildActorComponent* BP_AirConditioner_002; // 0x2a0(0x08)
+	struct UChildActorComponent* BP_AirConditioner_001; // 0x2a8(0x08)
+	struct USceneComponent* Epic; // 0x2b0(0x08)
+	struct USceneComponent* DefaultSceneRoot; // 0x2b8(0x08)
+};
+

@@ -1,0 +1,25 @@
+// WidgetBlueprintGeneratedClass PlayerSettingUI.PlayerSettingUI_C
+// Size: 0x560 (Inherited: 0x4c0)
+struct UPlayerSettingUI_C : UPDPlayerSettingUI {
+	struct UImage* Img_Bg; // 0x4c0(0x08)
+	struct UImage* IMG_Blinder; // 0x4c8(0x08)
+	struct UImage* IMG_BottomPad; // 0x4d0(0x08)
+	struct UImage* IMG_EquipSlot_UnEquipped1; // 0x4d8(0x08)
+	struct UImage* IMG_EquipSlot_UnEquipped2; // 0x4e0(0x08)
+	struct UImage* IMG_EquipSlot_UnEquipped3; // 0x4e8(0x08)
+	struct UImage* IMG_LeptonInfo_Bg; // 0x4f0(0x08)
+	struct UImage* IMG_LeptonInfo_Outline; // 0x4f8(0x08)
+	struct UImage* IMG_Map_UnderDeco; // 0x500(0x08)
+	struct UImage* IMG_Map_UnderLine; // 0x508(0x08)
+	struct UImage* IMG_Matching_Timer; // 0x510(0x08)
+	struct UImage* IMG_Mode_UnderDeco; // 0x518(0x08)
+	struct UImage* IMG_Mode_UnderLine; // 0x520(0x08)
+	struct UImage* IMG_SignatureInfo_Bg; // 0x528(0x08)
+	struct UImage* IMG_SignatureInfo_Outline; // 0x530(0x08)
+	struct UImage* IMG_TeamMode_UnderDeco; // 0x538(0x08)
+	struct UImage* IMG_TeamMode_UnderLine; // 0x540(0x08)
+	struct UImage* IMG_TopPad; // 0x548(0x08)
+	struct UImage* IMG_UniqueLeptonInfo_Bg; // 0x550(0x08)
+	struct UImage* IMG_UniqueLeptonInfo_Outline; // 0x558(0x08)
+};
+

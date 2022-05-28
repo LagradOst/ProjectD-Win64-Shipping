@@ -1,0 +1,26 @@
+// WidgetBlueprintGeneratedClass ClanInfo.ClanInfo_C
+// Size: 0x498 (Inherited: 0x3f0)
+struct UClanInfo_C : UPDClanInfoUI {
+	struct UImage* IMG_Bar_01; // 0x3f0(0x08)
+	struct UImage* IMG_Bar_02; // 0x3f8(0x08)
+	struct UImage* IMG_Bar_03; // 0x400(0x08)
+	struct UImage* IMG_Bar_04; // 0x408(0x08)
+	struct UImage* IMG_Bar_05; // 0x410(0x08)
+	struct UImage* IMG_Bar_06; // 0x418(0x08)
+	struct UImage* IMG_ClanDescBG; // 0x420(0x08)
+	struct UImage* IMG_GuideBg; // 0x428(0x08)
+	struct UImage* IMG_GuideBg_2; // 0x430(0x08)
+	struct UImage* IMG_Info_Normal; // 0x438(0x08)
+	struct UImage* IMG_Info_Underline; // 0x440(0x08)
+	struct UImage* IMG_InputBg; // 0x448(0x08)
+	struct UImage* IMG_InputBg_01; // 0x450(0x08)
+	struct UImage* IMG_InputBg_02; // 0x458(0x08)
+	struct UImage* IMG_InputBg_03; // 0x460(0x08)
+	struct UImage* IMG_Outline; // 0x468(0x08)
+	struct UImage* IMG_Outline_01; // 0x470(0x08)
+	struct UImage* IMG_Outline_02; // 0x478(0x08)
+	struct UImage* IMG_Outline_03; // 0x480(0x08)
+	struct UImage* IMG_SLotBg; // 0x488(0x08)
+	struct UImage* IMG_SlotOutline; // 0x490(0x08)
+};
+

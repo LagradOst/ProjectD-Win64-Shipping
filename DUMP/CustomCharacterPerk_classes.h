@@ -1,0 +1,28 @@
+// WidgetBlueprintGeneratedClass CustomCharacterPerk.CustomCharacterPerk_C
+// Size: 0x4c8 (Inherited: 0x410)
+struct UCustomCharacterPerk_C : UPDCustomCharacterPerkUI {
+	struct UWidgetAnimation* Anim_SceneOut; // 0x410(0x08)
+	struct UWidgetAnimation* Anim_SceneShowUp; // 0x418(0x08)
+	struct UImage* IMG_ActiveBarDeco; // 0x420(0x08)
+	struct UImage* IMG_AnimIndicator_A; // 0x428(0x08)
+	struct UImage* IMG_BottomBar; // 0x430(0x08)
+	struct UImage* IMG_BottomBg; // 0x438(0x08)
+	struct UImage* IMG_Divider; // 0x440(0x08)
+	struct UImage* IMG_LodingBg; // 0x448(0x08)
+	struct UImage* IMG_MouseL; // 0x450(0x08)
+	struct UImage* IMG_MouseR; // 0x458(0x08)
+	struct UImage* IMG_Outglow; // 0x460(0x08)
+	struct UImage* IMG_Outglow_Title; // 0x468(0x08)
+	struct UImage* IMG_OwnListOutline; // 0x470(0x08)
+	struct UImage* IMG_PopupBg; // 0x478(0x08)
+	struct UImage* IMG_PresetDivider; // 0x480(0x08)
+	struct UImage* IMG_PresetLIstBg; // 0x488(0x08)
+	struct UImage* IMG_PresetListLine; // 0x490(0x08)
+	struct UImage* IMG_PresetListOutline; // 0x498(0x08)
+	struct UImage* IMG_Progress_HDivider; // 0x4a0(0x08)
+	struct UImage* IMG_SkillToolTipBg; // 0x4a8(0x08)
+	struct UImage* IMG_SkillToolTipOutline; // 0x4b0(0x08)
+	struct UImage* IMG_TitleActiveBar; // 0x4b8(0x08)
+	struct UImage* IMG_TopBar; // 0x4c0(0x08)
+};
+
